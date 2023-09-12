@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'hello-demo';
+  players=["virat","sachin"];
+  message:string="Good morining";
+  inputValue:string="Initial value";
 }
